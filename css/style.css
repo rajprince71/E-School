@@ -172,3 +172,8 @@ footer ul li :first-child{
     
     font-weight: 600;
 }
+footer h5{
+    
+    font-weight: 200;
+    text-align: center
+}
